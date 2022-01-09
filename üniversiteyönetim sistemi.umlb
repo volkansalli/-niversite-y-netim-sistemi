@@ -1,0 +1,25 @@
+{"_id":"15329C3kLlPkqksu","isAbstract":false,"isFinal":false,"isInterface":false,"visibility":"public","diagramId":"xHojB0XUK8dpNx61","name":"profesör","kind":"Class","position":{"x":844.5,"y":502},"discriminator":"Class"}
+{"_id":"6QO4bViQIDW0gQjG","name":"","sourceId":"CUNGRbLvxiXMpHD2","targetId":"wYjhwvtXxZkDhhy5","diagramId":"xHojB0XUK8dpNx61","visibility":"public","kind":"Relationship","relationshipKind":"Inheritance"}
+{"_id":"6t211TJBgH80uGfj","name":"has","sourceId":"tSFgqYf7t3X4Z90y","targetId":"CUNGRbLvxiXMpHD2","diagramId":"xHojB0XUK8dpNx61","visibility":"public","kind":"Relationship","relationshipKind":"Aggregation"}
+{"_id":"CJqJAo7lN1NM8bCP","name":"void","kind":"StandardType","visibility":"public"}
+{"_id":"CUNGRbLvxiXMpHD2","isAbstract":false,"isFinal":false,"isInterface":false,"visibility":"public","diagramId":"xHojB0XUK8dpNx61","name":"çalışanlar","kind":"Class","position":{"x":757.5,"y":354},"discriminator":"Class"}
+{"_id":"DbkOJkIhf6s1cbut","isAbstract":false,"isFinal":false,"isInterface":false,"visibility":"public","diagramId":"xHojB0XUK8dpNx61","name":"ofisler","kind":"Class","position":{"x":771.5,"y":182},"discriminator":"Class"}
+{"_id":"DcnKtCHRrIdKThzV","name":"string","kind":"StandardType","visibility":"public"}
+{"_id":"GapZxLaZC7pM0Hav","name":"double","kind":"StandardType","visibility":"public"}
+{"_id":"HpKSwyXh7hCKSk1B","name":"has","sourceId":"tSFgqYf7t3X4Z90y","targetId":"fmifH8pKOdLUKktr","diagramId":"xHojB0XUK8dpNx61","visibility":"public","kind":"Relationship","relationshipKind":"Aggregation"}
+{"_id":"PS88SxIgEBOpH1ht","name":"","sourceId":"CUNGRbLvxiXMpHD2","targetId":"15329C3kLlPkqksu","diagramId":"xHojB0XUK8dpNx61","visibility":"public","kind":"Relationship","relationshipKind":"Inheritance"}
+{"_id":"QHnp6avkkm7MxJFE","name":"has","sourceId":"fmifH8pKOdLUKktr","targetId":"DbkOJkIhf6s1cbut","diagramId":"xHojB0XUK8dpNx61","visibility":"public","kind":"Relationship","relationshipKind":"Aggregation"}
+{"_id":"TFLnyt1Zjlde6RMD","name":"has","sourceId":"tSFgqYf7t3X4Z90y","targetId":"qYacWrcJZjW45MmC","diagramId":"xHojB0XUK8dpNx61","visibility":"public","kind":"Relationship","relationshipKind":"Aggregation"}
+{"_id":"VLgfTojKky5ZWO15","name":"int","kind":"StandardType","visibility":"public"}
+{"_id":"dnNEWoEk7Re0am1y","name":"time","kind":"StandardType","visibility":"public"}
+{"_id":"f1FEthoIoG8oOcvZ","name":"her çalışanın ofisi var","sourceId":"CUNGRbLvxiXMpHD2","targetId":"DbkOJkIhf6s1cbut","diagramId":"xHojB0XUK8dpNx61","visibility":"public","kind":"Relationship","relationshipKind":"Association","sourceMultiplicity":{"lowerBound":"*"},"targetMultiplicity":{"lowerBound":"*"}}
+{"_id":"fmifH8pKOdLUKktr","isAbstract":false,"isFinal":false,"isInterface":false,"visibility":"public","diagramId":"xHojB0XUK8dpNx61","name":"departmanlar","kind":"Class","position":{"x":599.5,"y":183},"discriminator":"Class"}
+{"_id":"jEHImsuS8iidoHW2","name":"boolean","kind":"StandardType","visibility":"public"}
+{"_id":"mDk3orYq2up9b8KF","name":"char","kind":"StandardType","visibility":"public"}
+{"_id":"qYacWrcJZjW45MmC","isAbstract":false,"isFinal":false,"isInterface":false,"visibility":"public","diagramId":"xHojB0XUK8dpNx61","name":"çalışma ofisleri","kind":"Class","position":{"x":216.5,"y":195},"discriminator":"Class"}
+{"_id":"rQUT4QWVpJqUv0Bm","name":"date","kind":"StandardType","visibility":"public"}
+{"_id":"s1cLshHWZWbfcbW4","name":"any","kind":"StandardType","visibility":"public"}
+{"_id":"tSFgqYf7t3X4Z90y","isAbstract":false,"isFinal":false,"isInterface":false,"visibility":"public","diagramId":"xHojB0XUK8dpNx61","name":"üniversite","kind":"Class","position":{"x":235.5,"y":352},"discriminator":"Class"}
+{"_id":"wCYCXg5ZTgmlwYcy","name":"float","kind":"StandardType","visibility":"public"}
+{"_id":"wYjhwvtXxZkDhhy5","isAbstract":false,"isFinal":false,"isInterface":false,"visibility":"public","diagramId":"xHojB0XUK8dpNx61","name":"memur","kind":"Class","position":{"x":765.5,"y":501},"discriminator":"Class"}
+{"_id":"xHojB0XUK8dpNx61","name":"new diagram","kind":"ClassDiagram","titlePosition":{"x":550,"y":24}}
